@@ -1,0 +1,7 @@
+# 抓取产物与登录态不入库
+trae_usage_data/
+usage_*.csv
+usage_*.json
+__pycache__/
+*.pyc
+.venv/
